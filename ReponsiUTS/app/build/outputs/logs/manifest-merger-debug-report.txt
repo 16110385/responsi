@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8476cf6b69d272bc6519aacb3bde8388\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e0b893f313438af44e07c7a6cb1943f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aef8659240edbdc99f42f0e8a6d972a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1300eff01d64aff0cba2ba0bf7c9f3f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ab910546f97e5161e343f097f568a90e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a24f68429e8399385b664f87efca5284\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\83c70fbbd6201b76b0e5e0e474e02f41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6719e7207a3f5d07b59dd68080eec0fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93a793afe96085171afa828b96f687b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d4f05e010b4d2d6193652f46d4218e3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5a86b7d12c608342ff40c8981480e37d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f174e57aaf02a52eae476a0185396c57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa93e8c714cb0df5ede834a01f71ada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\558d01709ca6e0e3237e8517642e293b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9085976baf6b041939c3f3ff612bf3e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\058c7a6e87c915aab80f58b45c1a9fd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\22298ac71da8b0ada5272d679188a3d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b6b2d37c99ce117576fd0891d9798033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\13aec4bf584f4aca9e2eb0dfa156ff1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fe1823a680785f30f04c1a8a52592574\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\790ae5a91db80dad15d0118ecdd4847d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea46699cc7db9ee87984a37e85d7876e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40ab449e091a9a543ad6d2a7286c2c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\326d2e60fe3f7987805f794a799a0f12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4a7bb78059f1c7b06e29f6b9b2ea8127\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\868434afff580b8b224ad33179497aea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0e7a41411bfeefbfc3794f146059e5ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b6815eaffe06bd4fb1f7d07de9952516\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e01e895c2f17fc4aac9c9f0f22df5da5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\923d2857787bc6bc1163dc94133b6492\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8476cf6b69d272bc6519aacb3bde8388\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8476cf6b69d272bc6519aacb3bde8388\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aef8659240edbdc99f42f0e8a6d972a9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aef8659240edbdc99f42f0e8a6d972a9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fe1823a680785f30f04c1a8a52592574\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fe1823a680785f30f04c1a8a52592574\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:11:9-40
+activity#net.tiarawidia.reponsiuts.MainActivity
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#android.app.searchable
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:19:13-21:53
+	android:resource
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:21:17-50
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:20:17-54
+activity#net.tiarawidia.reponsiuts.MoveActivity
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:23:19-47
+activity#net.tiarawidia.reponsiuts.move2Activity
+ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8476cf6b69d272bc6519aacb3bde8388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8476cf6b69d272bc6519aacb3bde8388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e0b893f313438af44e07c7a6cb1943f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e0b893f313438af44e07c7a6cb1943f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aef8659240edbdc99f42f0e8a6d972a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aef8659240edbdc99f42f0e8a6d972a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1300eff01d64aff0cba2ba0bf7c9f3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1300eff01d64aff0cba2ba0bf7c9f3f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ab910546f97e5161e343f097f568a90e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ab910546f97e5161e343f097f568a90e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a24f68429e8399385b664f87efca5284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a24f68429e8399385b664f87efca5284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\83c70fbbd6201b76b0e5e0e474e02f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\83c70fbbd6201b76b0e5e0e474e02f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6719e7207a3f5d07b59dd68080eec0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\6719e7207a3f5d07b59dd68080eec0fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93a793afe96085171afa828b96f687b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93a793afe96085171afa828b96f687b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d4f05e010b4d2d6193652f46d4218e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d4f05e010b4d2d6193652f46d4218e3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5a86b7d12c608342ff40c8981480e37d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5a86b7d12c608342ff40c8981480e37d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f174e57aaf02a52eae476a0185396c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f174e57aaf02a52eae476a0185396c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa93e8c714cb0df5ede834a01f71ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4fa93e8c714cb0df5ede834a01f71ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\558d01709ca6e0e3237e8517642e293b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\558d01709ca6e0e3237e8517642e293b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9085976baf6b041939c3f3ff612bf3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9085976baf6b041939c3f3ff612bf3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\058c7a6e87c915aab80f58b45c1a9fd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\058c7a6e87c915aab80f58b45c1a9fd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\22298ac71da8b0ada5272d679188a3d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\22298ac71da8b0ada5272d679188a3d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b6b2d37c99ce117576fd0891d9798033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b6b2d37c99ce117576fd0891d9798033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\13aec4bf584f4aca9e2eb0dfa156ff1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\13aec4bf584f4aca9e2eb0dfa156ff1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5181c2eebfcdb6fefe285baab94596dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fe1823a680785f30f04c1a8a52592574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fe1823a680785f30f04c1a8a52592574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\790ae5a91db80dad15d0118ecdd4847d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\790ae5a91db80dad15d0118ecdd4847d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea46699cc7db9ee87984a37e85d7876e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ea46699cc7db9ee87984a37e85d7876e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40ab449e091a9a543ad6d2a7286c2c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40ab449e091a9a543ad6d2a7286c2c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\326d2e60fe3f7987805f794a799a0f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\326d2e60fe3f7987805f794a799a0f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4a7bb78059f1c7b06e29f6b9b2ea8127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4a7bb78059f1c7b06e29f6b9b2ea8127\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\868434afff580b8b224ad33179497aea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\868434afff580b8b224ad33179497aea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0e7a41411bfeefbfc3794f146059e5ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0e7a41411bfeefbfc3794f146059e5ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b6815eaffe06bd4fb1f7d07de9952516\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b6815eaffe06bd4fb1f7d07de9952516\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e01e895c2f17fc4aac9c9f0f22df5da5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e01e895c2f17fc4aac9c9f0f22df5da5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\923d2857787bc6bc1163dc94133b6492\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tiara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\923d2857787bc6bc1163dc94133b6492\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tiara\AndroidStudioProjects\ReponsiUTS\app\src\main\AndroidManifest.xml
